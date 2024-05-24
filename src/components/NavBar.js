@@ -83,7 +83,7 @@ const NavBar = () => {
     className='w-6 mx-3'>
     <UpworkIcon/>
     </motion.a>
-    <motion.a href="https://www.upwork.com/freelancers/~01a9434cd601b5b139" target={"blank"} 
+    <motion.a href="https://stackoverflow.com/users/23236414/prabeen-bhattarai" target={"blank"} 
     whileHover = {{y:-2}}
     whileTap={{scale:0.9}}
     className='w-6 ml-3 dar:fill-light'>
