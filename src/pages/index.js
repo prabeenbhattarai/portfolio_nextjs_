@@ -36,7 +36,7 @@ export default function Home() {
       <p className='my-4 text-base font-medium md:text-sm sm:text-xs'> 
       As a passionate programmer, I specialize in turning innovative visions into reality through seamless code and thoughtful design. With a keen eye for detail and a commitment to excellence, I transform complex ideas into engaging and functional digital experiences.</p>
       <div className='flex items-center self-start mt-2 lg:self-center'>
-      <Link href="/dummy.pdf" target={"_blank"}
+      <Link href="/images/profile/CV_PRABEEN.pdf" target={"_blank"}
       className='flex items-center bg-dark text-light p-2.5 px-6 rounded-lg text-lg font-semibold
       hover:bg-light hover:text-dark border-2 
       border-solid border-transparent hover:border-dark dark:bg-light dark:text-dark hover:dark:bg-dark hover:dark:text-light hover:dark:border-light
