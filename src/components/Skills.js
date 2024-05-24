@@ -44,8 +44,8 @@ const Skills = () => {
 <Skill name="ReactJS" x="0vw" y="28vw"/>
 <Skill name="Flutter" x="-20vw" y="-15vw"/>
 <Skill name="AWS Cloud" x="15vw" y="-24vw"/>
-<Skill name="WordPress" x="-25vw" y="-28vw"/>
-<Skill name="Laravel" x="0vw" y="-40vw"/>
+<Skill name="WordPress" x="-20vw" y="-28vw"/>
+<Skill name="Laravel" x="0vw" y="-20vw"/>
 <Skill name="SEO & Security" x="0vw" y="18vw"/>
 <Skill name="SQL & Firebase" x="30vw" y="-14vw"/>
 <Skill name="Next Js" x="-35vw" y="-10vw"/>
@@ -53,7 +53,7 @@ const Skills = () => {
 <Skill name="App Dev." x="35vw" y="10vw"/>
 <Skill name="Software Dev." x="-35vw" y="10vw"/>
 <Skill name="UI/UX Design" x="-25vw" y="20vw"/>
-<Skill name="Linux" x="-3vw" y="40vw"/>
+<Skill name="Linux" x="0vw" y="10vw"/>
 
 
 
