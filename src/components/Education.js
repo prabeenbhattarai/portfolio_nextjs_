@@ -48,7 +48,18 @@ Education
             className='absolute left-9 top-0 w-[4px] h-full bg-dark origin-top  dark:bg-light
             md:w-[2px] md:left-[30px] xs:left-[20px]' />
 <ul className='w-full flex flex-col items-start justify-between ml-4 xs:ml-2'>
-   <Details
+  
+                 <Details
+   type="Master in Information and Communication Technology"
+   time="2024-Present"
+   place="Western Sydney University (WSU), Sydney, Australia"
+   info="Graduate program focused on advanced knowledge and skills in computing, networking, data management, and emerging technologies to solve complex technological challenges."
+   
+   />
+                
+                
+                
+                <Details
    type="Bachelor of Engineering in IT"
    time="2017-2022"
    place="Nepal College of Information Technology (NCIT) "
