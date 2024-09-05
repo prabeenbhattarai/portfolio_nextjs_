@@ -156,6 +156,15 @@ const profile = () => {
   link="https://www.pb-sports.net/"
   type="Software Development" />
               </div>
+     <div className='col-span-12'>
+              <FeaturedProject
+ title="Gyan Bahumukhi Educational Website"
+ img={Gyan}
+ github="https://github.com/prabeenbhattarai/"
+ summary="Experience streamlined education management with Gyan Bahumukhi Campus, an advanced PHP and MongoDB-based platform. Easily manage student records, online admissions, course materials, faculty data, and performance tracking, providing a comprehensive solution for modern educational institutions."
+  link="https://gyanbahumukhicampus.edu.np/"
+  type="Website Development" />
+              </div>
               <div className='col-span-6'>
               
               </div>
