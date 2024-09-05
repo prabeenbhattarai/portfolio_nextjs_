@@ -8,7 +8,9 @@ import React from 'react'
 import POS from "../../public/images/projects/pos.png";
 import PB from "../../public/images/projects/pb.png";
 import Khas from "../../public/images/projects/khas.png";
-import NTS from "../../public/images/projects/nts.png";
+import NTS from "../../public/images/projects/nts.png"; 
+import Gyan from "../../public/images/projects/gyan.png"; 
+
 import {motion} from "framer-motion";
 import TransitionEffect from '@/components/TransitionEffect'
 
