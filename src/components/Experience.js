@@ -67,7 +67,7 @@ xs:ml-2'>
 
 <Details
    position="Marketing Manager" company="Kopila Suppliers"
-   time="2023-present" address="Kawasoti, Nawalpur, Nepal"
+   time="2023-2024" address="Nawalpur, Nepal"
    companyLink="/"
    work="I develop and execute comprehensive marketing strategies to 
    drive brand awareness and customer engagement. I oversee market research, 
